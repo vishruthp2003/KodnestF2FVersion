@@ -1,73 +1,33 @@
-# Welcome to your Lovable project
+# Kodnest F2F Interview Prep Tool
 
-## Project info
+A modern, responsive web application designed to help users prepare for face-to-face front-end developer interviews. The application features a clean user interface with structured questions and topics to improve interview readiness.
 
-**URL**: https://lovable.dev/projects/7ed0f7d6-a6e6-44ce-b4c3-58214bfdc485
+## 📜 Features
 
-## How can I edit this code?
+- 💡 **Interview Questions UI** – Organized front-end questions for effective learning.
+- 🎨 **Modern UI** – Built with shadcn-ui and styled using Tailwind CSS.
+- ⚡ **Fast & Lightweight** – Powered by Vite for faster development and optimized builds.
+- 📱 **Responsive Design** – Fully functional across mobile, tablet, and desktop devices.
 
-There are several ways of editing your application.
+## 🚀 How It Works
 
-**Use Lovable**
+1. **Launch the App** – Open the [live website]
+2. **Browse Questions** – Navigate through a curated list of interview questions.
+3. **Prepare** – Use the layout and content to reinforce front-end concepts.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/7ed0f7d6-a6e6-44ce-b4c3-58214bfdc485) and start prompting.
+## 📦 Technologies Used
 
-Changes made via Lovable will be committed automatically to this repo.
+- **Frontend:** React, TypeScript
+- **Styling:** Tailwind CSS, shadcn-ui
+- **Tooling:** Vite
+- **Deployment:** Vercel
 
-**Use your preferred IDE**
+## 🧑‍💻 Author
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+**Vishruth P**  
+🔗 [GitHub Profile](https://github.com/vishruthp2003)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+Feel free to fork, clone, and contribute!
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/7ed0f7d6-a6e6-44ce-b4c3-58214bfdc485) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
