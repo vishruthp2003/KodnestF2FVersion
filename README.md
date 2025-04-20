@@ -1,10 +1,10 @@
 # Kodnest F2F Interview Prep Tool
 
-A modern, responsive web application designed to help users prepare for face-to-face front-end developer interviews. The application features a clean user interface with structured questions and topics to improve interview readiness.
+A modern, responsive web application designed to help users prepare for face-to-face technical interviews. The application features a clean user interface with structured questions and topics to improve interview readiness.
 
 ## 📜 Features
 
-- 💡 **Interview Questions UI** – Organized front-end questions for effective learning.
+- 💡 **Interview Questions UI** – Organized questions for effective learning.
 - 🎨 **Modern UI** – Built with shadcn-ui and styled using Tailwind CSS.
 - ⚡ **Fast & Lightweight** – Powered by Vite for faster development and optimized builds.
 - 📱 **Responsive Design** – Fully functional across mobile, tablet, and desktop devices.
